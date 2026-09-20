@@ -1,6 +1,6 @@
 const express = require("express");
 const router = express.Router();
-const Profile = require("../models/Profile");
+const Profile = require("../models/profile");
 const {
   analyzeSkillGaps,
   generateLearningPlan,
