@@ -1,0 +1,72 @@
+[
+  {
+    "title": "MDN JavaScript Guide",
+    "skill": "JavaScript",
+    "type": "documentation",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+    "description": "A structured reference and guide to JavaScript fundamentals and core language concepts."
+  },
+  {
+    "title": "React Learn",
+    "skill": "React",
+    "type": "tutorial",
+    "url": "https://react.dev/learn",
+    "description": "The official React learning path covering components, state, events, and hooks."
+  },
+  {
+    "title": "Node.js Learn",
+    "skill": "Node.js",
+    "type": "documentation",
+    "url": "https://nodejs.org/en/learn/getting-started/introduction-to-nodejs",
+    "description": "Official Node.js fundamentals, runtime concepts, and getting-started guidance."
+  },
+  {
+    "title": "Express.js Getting Started",
+    "skill": "Express.js",
+    "type": "documentation",
+    "url": "https://expressjs.com/en/starter/installing.html",
+    "description": "Official Express setup, routing, middleware, and application fundamentals."
+  },
+  {
+    "title": "MongoDB University: MongoDB Basics",
+    "skill": "MongoDB",
+    "type": "course",
+    "url": "https://learn.mongodb.com/learning-paths/mongodb-basics",
+    "description": "A guided introduction to MongoDB data, queries, and database fundamentals."
+  },
+  {
+    "title": "MDN HTTP Overview",
+    "skill": "REST APIs",
+    "type": "documentation",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview",
+    "description": "A practical overview of HTTP requests, responses, methods, status codes, and APIs."
+  },
+  {
+    "title": "GitHub Skills: Introduction to GitHub",
+    "skill": "Git/GitHub",
+    "type": "practice",
+    "url": "https://skills.github.com/",
+    "description": "Interactive exercises for repositories, branches, commits, and collaboration workflows."
+  },
+  {
+    "title": "MDN Web Security",
+    "skill": "Authentication",
+    "type": "documentation",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/Security",
+    "description": "Foundational web security concepts relevant to authentication and protected applications."
+  },
+  {
+    "title": "MDN HTML Basics",
+    "skill": "HTML/CSS",
+    "type": "tutorial",
+    "url": "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics",
+    "description": "A beginner-friendly introduction to structuring web pages with HTML."
+  },
+  {
+    "title": "MDN CSS First Steps",
+    "skill": "HTML/CSS",
+    "type": "tutorial",
+    "url": "https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps",
+    "description": "A guided introduction to selectors, layout, styling, and responsive CSS."
+  }
+]
